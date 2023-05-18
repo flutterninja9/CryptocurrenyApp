@@ -1,4 +1,4 @@
-package com.tfn.cryptocurrenyapp.ui.theme
+package com.tfn.cryptocurrenyapp.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 
